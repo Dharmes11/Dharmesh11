@@ -1,8 +1,8 @@
 # Dharmesh11<html>
 <head><title>github</title></head>
 <body>
-<marquee><h1 align="center">Hi 👋, I'm dharmesh</h1></marquee>
-<h3 align="center">A passionate frontend developer from India</h3>
+<marquee><h1 align="center">Hi 👋, I'm dharmesh</h1></marquee><hr>
+<h1 align="center"> app developer from India</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmes11" alt="dharmes11" /></a> </p>
 
