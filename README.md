@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmes11" alt="dharmes11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@dharmes33617789" target="blank"><img src="https://img.shields.io/twitter/follow/@dharmes33617789?logo=twitter&style=for-the-badge" alt="@dharmes33617789" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dharmes33617789" target="blank"><img src="https://img.shields.io/twitter/follow/@dharmes33617789?logo=twitter&style=for-the-badge" alt="@dharmes33617789" /></a> </p><hr>
 
-- 📫 How to reach me **talpadadharmesh46@gmail.com**
+  - <h3>📫 How to reach me **talpadadharmesh46@gmail.com**</h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
