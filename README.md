@@ -1,6 +1,6 @@
 # Dharmesh11<html>
 <head><title>github</title></head>
-<body>
+<body><hr>
 <marquee><h1 align="center">Hi 👋, I'm dharmesh</h1></marquee><hr>
 <h1 align="center"> app developer from India</h1>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dharmes33617789" target="blank"><img src="https://img.shields.io/twitter/follow/@dharmes33617789?logo=twitter&style=for-the-badge" alt="@dharmes33617789" /></a> </p><hr>
 
-  - <h3>📫 How to reach me **talpadadharmesh46@gmail.com**</h3>
+  - <h3>📫 How to reach me **talpadadharmesh46@gmail.com**</h3><hr>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
