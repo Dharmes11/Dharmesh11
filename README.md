@@ -1,7 +1,7 @@
 <html>
 <head><title>github</title></head>
 <body>
-<h1 align="center">Hi 👋, I'm dharmesh</h><hr color="red" size="5">
+<h1 align="center">Hi 👋, I'm dharmesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmes11" alt="dharmes11" /></a> </p>
